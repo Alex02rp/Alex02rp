@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>✔️actualmente estoy buscando trabajo🔭<br>✔️estoy buscando afianzar y mejorar mis habilidades🤓<br>✔️actualmente estoy aprendiendo mas de desarrollo backend🌱
+# 💫 About Me:<br>✔️actualmente estoy buscando trabajo🔭<br>✔️me gusta el desarrollo con java🤓<br>✔️actualmente estoy aprendiendo mas de sobre IA🌱
 
 
 ## 🌐 Socials:
